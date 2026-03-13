@@ -1,0 +1,24 @@
+# Python environment
+venv/
+.venv/
+env/
+bin/
+lib/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Output files (Optional - ถ้าไม่อยากเอาไฟล์รายงานขึ้น GitHub)
+# maintenance_report.csv
+# vibration_features.csv
